@@ -1,6 +1,6 @@
 # FunctionsApp
 
-Function Solver. Build a set of classes that allow you to build and modify functions at runtime using
+Function Solver. a set of classes that allow you to build and modify functions at runtime using
 tools similar to those in the STL <functional> library. We have the following abstract class:
 class Function
 {
